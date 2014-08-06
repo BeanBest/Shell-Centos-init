@@ -28,4 +28,4 @@ NETMASK=255.255.255.0
 GATEWAY=10.9.240.1
 EOF
 
-rm -fr a.ext set.sh
+rm -fr a.txt set.sh
